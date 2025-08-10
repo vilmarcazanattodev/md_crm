@@ -1,0 +1,16 @@
+{
+  "name": "md_crm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "author": "Vilmar Cazanatto",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fastify": "^5.4.0"
+  },
+  "keywords": [],
+  "description": ""
+}
